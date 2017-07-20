@@ -1,1 +1,1 @@
-I'm 1 append bug;
+I'm 1 append bug and merge bug;
