@@ -1,1 +1,3 @@
-I'm 1 append development;
+
+I'm 1 append bug and merge bug and merge development "bug合并到主干后再把主干上的代码合并到开发分支";
+
