@@ -1,1 +1,2 @@
-I'm 1 append bug and merge bug;
+分支1、2合并
+
